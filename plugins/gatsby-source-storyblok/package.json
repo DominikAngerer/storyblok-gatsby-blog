@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-source-storyblok",
+  "description": "Gatsby source plugin for building websites using the Storyblok headless CMS as a data source.",
+  "version": "0.1.0",
+  "author": "Dominik Angerer <da@storyblok.com>",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "chalk": "^2.3.2",
+    "chokidar": "^2.0.2",
+    "express": "^4.16.3",
+    "promise-throttle": "^0.3.1",
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1",
+    "crypto": "^1.0.1",
+    "json-stringify-safe": "^5.0.1",
+    "slash": "^1.0.0",
+    "storyblok-js-client": "^1.0.4"
+  },
+  "deprecated": false,
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "storyblok",
+    "headless-cms"
+  ],
+  "license": "MIT"
+}
